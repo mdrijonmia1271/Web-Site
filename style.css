@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 50px;
+}
+p{
+    color: dimgray;
+}
+span{
+    color:orange;
+}
+.class-1{
+    width: 40%;
+    float: left;
+    margin-left: 10px;
+    padding-left: 50px;
+}
+.class-1 img{
+    width: 100%;
+   
+}
+
+.link-1{
+    text-decoration:none;
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
+    padding: 10px 10px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+#first-section{
+    background-image: url("image/top-banner.png");
+
+   
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+h3{
+    color: orange;
+}
+#second-section{
+    background-image: url("image/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#exprience-area{
+    background-image: url("image/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position:left;
+}
+h4{
+    font-size: 30px;
+}
+.third-section{
+  box-shadow: 10px 10px 40px gray ;
+  border-radius: 7px;
+  height: 50%;
+  margin-left: 30px;
+  margin-right: 40px;
+  
+}
+#full-stuk{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon,tomato);
+    border-image-slice: 1;
+
+
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue,cyan) ;
+    border-image-slice: 1;
+
+}
+footer{
+    text-align: center;
+}
+
